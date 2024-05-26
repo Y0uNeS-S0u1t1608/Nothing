@@ -1,0 +1,22 @@
+.button
+{background-color: rgb(255, 255, 255);
+color: #000;
+border:10px solid black;
+border-radius: 30px;
+margin: 10px 500px;
+padding: 12.5px;
+text-align: center;
+font-family: 'Arial';
+font-weight: bolder;
+font-size: x-large;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+h1
+{font-size: 100px;
+text-align: center;
+font-family:'Arial';}
+#button-link
+{color:rgb(0, 0, 0);
+text-decoration: none;}
